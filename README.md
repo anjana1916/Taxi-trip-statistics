@@ -12,11 +12,11 @@ Two datasets stored in **HDFS**:
 
 ### Example Data
 #### 🚕 Taxis.txt
-Taxi#, company, model, year
+Taxi#, company, model, year <br>
 470,0,80,2018 332,11,88,2013
 
 #### 📌 Trips.txt
-Trip#, Taxi#, fare, distance, pickup_x, pickup_y, dropoff_x, dropoff_y 
+Trip#, Taxi#, fare, distance, pickup_x, pickup_y, dropoff_x, dropoff_y <br>
 0,354,232.64,127.23,46.069,85.566,10.355,4.83
 
 
