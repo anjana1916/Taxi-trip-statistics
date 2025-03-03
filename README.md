@@ -63,15 +63,16 @@ Trip#, Taxi#, fare, distance, pickup_x, pickup_y, dropoff_x, dropoff_y
 - HDFS with input files:
   - `/Input/Trips.txt`
   - `/Input/Taxis.txt`
-
 ### Running the Tasks
 ```sh
-bash Task1-run.sh   # Run Task 1
-bash Task2-run.sh   # Run Task 2
-bash Task3-run.sh   # Run Task 3
+bash Task1-run.sh   
+bash Task2-run.sh   
+bash Task3-run.sh   
+```
 
-## ✨ Acknowledgments
 
-- **Course:** COSC 2637/2633 - Big Data Processing @ RMIT.
-- **Instructor:** [Your Professor's Name].
+
+
+
+
 
