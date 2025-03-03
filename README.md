@@ -69,3 +69,9 @@ Trip#, Taxi#, fare, distance, pickup_x, pickup_y, dropoff_x, dropoff_y
 bash Task1-run.sh   # Run Task 1
 bash Task2-run.sh   # Run Task 2
 bash Task3-run.sh   # Run Task 3
+
+## ✨ Acknowledgments
+
+- **Course:** COSC 2637/2633 - Big Data Processing @ RMIT.
+- **Instructor:** [Your Professor's Name].
+
