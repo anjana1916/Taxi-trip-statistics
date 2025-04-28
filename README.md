@@ -21,7 +21,7 @@ Trip#, Taxi#, fare, distance, pickup_x, pickup_y, dropoff_x, dropoff_y <br>
 
 
 ## 🚀 Tasks Implemented
-### Task 1: Trip Statistics (5 Marks)
+### Task 1: Trip Statistics 
 - Categorize trips into **short (<100 km), medium (100-200 km), and long (>200 km)**.
 - Compute:
   - **Total trips per category**
@@ -33,7 +33,7 @@ Trip#, Taxi#, fare, distance, pickup_x, pickup_y, dropoff_x, dropoff_y <br>
 - `reducer.py` - Aggregates trip statistics.
 - `Task1-run.sh` - Executes the task.
 
-### Task 2: K-Medoid Clustering (10 Marks)
+### Task 2: K-Medoid Clustering 
 - Cluster trips based on **drop-off locations** using the **Partitioning Around Medoids (PAM)** algorithm.
 - Works for **different k and iteration values**.
 
@@ -43,7 +43,7 @@ Trip#, Taxi#, fare, distance, pickup_x, pickup_y, dropoff_x, dropoff_y <br>
 - `reader.py` - Checks convergence.
 - `Task2-run.sh` - Runs clustering iteratively.
 
-### Task 3: Taxi Company Ranking (10 Marks)
+### Task 3: Taxi Company Ranking 
 - Rank taxi companies by **total trips**.
 - **Subtasks**:
   1. **Join operation** - Merge `Taxis.txt` & `Trips.txt`.
